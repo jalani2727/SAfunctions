@@ -1,0 +1,3 @@
+from coins import *
+
+coinsFunct()

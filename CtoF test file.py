@@ -1,0 +1,3 @@
+from CtoF import *
+
+convert()
